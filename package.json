@@ -1,0 +1,15 @@
+{
+  "name": "nombresdebebe",
+  "version": "1.0.0",
+  "description": "Generador aleatorio de nombres de bebé",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ana V.P.",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  }
+}
